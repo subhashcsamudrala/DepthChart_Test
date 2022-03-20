@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeptChartConsole", "ConsoleApp1\DeptChartConsole.csproj", "{2882AF6F-6D13-482A-A119-0FB13428F94C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{C45B4276-AAF1-43BA-8750-16F6373BC9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2882AF6F-6D13-482A-A119-0FB13428F94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2882AF6F-6D13-482A-A119-0FB13428F94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2882AF6F-6D13-482A-A119-0FB13428F94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2882AF6F-6D13-482A-A119-0FB13428F94C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45B4276-AAF1-43BA-8750-16F6373BC9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45B4276-AAF1-43BA-8750-16F6373BC9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45B4276-AAF1-43BA-8750-16F6373BC9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45B4276-AAF1-43BA-8750-16F6373BC9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11139705-9AFA-4A9F-9D10-BD99620BA7E9}
+	EndGlobalSection
+EndGlobal
